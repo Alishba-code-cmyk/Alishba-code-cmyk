@@ -10,7 +10,7 @@ I build web apps with the MERN stack and practice problem-solving in Java and Py
 |---|---|---|
 | [Healthwise](https://github.com/Alishba-code-cmyk/SkillSwap) | AI integrated health dignostic web | tailwind css, MongoDB, Next.js,JWT authentication |
 | [Wanderlust](https://github.com/Alishba-code-cmyk/Full-stack-MERN-projects) | Full-stack apps built with MongoDB, Express, React, and Node | MERN |
-| [Personal-portfolio](https://github.com/Alishba-code-cmyk/frontend-projects) | Responsive UI projects | HTML, CSS, JavaScript |
+| [Personal-portfolio](https://github.com/Alishba-code-cmyk/frontend-projects/tree/main/personal-portfolio) | Responsive UI projects | HTML, CSS, JavaScript |
 
 ## Tech Stack
 
