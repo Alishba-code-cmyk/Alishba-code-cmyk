@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Alishba 
 
-<!--
-**Alishba-code-cmyk/Alishba-code-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN stack developer | Learning Java & Python 
 
-Here are some ideas to get you started:
+I build web apps with the MERN stack and practice problem-solving in Java and Python. I'm currently looking for internship / freelance / opensource opportunities in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [SkillSwap](https://github.com/Alishba-code-cmyk/SkillSwap) | [One line: e.g. a platform where users exchange skills with each other] | [React, Node.js, MongoDB] |
+| [Full-stack MERN projects](https://github.com/Alishba-code-cmyk/Full-stack-MERN-projects) | Full-stack apps built with MongoDB, Express, React, and Node | MERN |
+| [Frontend projects](https://github.com/Alishba-code-cmyk/frontend-projects) | Responsive UI projects | HTML, CSS, JavaScript |
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React
+**Backend:** Node.js, Express
+**Database:** MongoDB
+**Languages:** JavaScript, Java, Python
+**Tools:** Git, GitHub, VS Code
+
+## 📚 Currently Learning
+
+- Java: data structures and OOP
+- [Python: problem-solving and projects]
+- [Something you're exploring next, e.g. TypeScript, Next.js]
+
+Learning repos: [JavaScript](https://github.com/Alishba-code-cmyk/Javascript-learning) · [Java](https://github.com/Alishba-code-cmyk/Java-learning) · [Python](https://github.com/Alishba-code-cmyk/Python-Learning)
+
+## 📫 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/alishba-ainul-435348365/
+- Email: itsalishba00@gmail.com
+- Portfolio: 
