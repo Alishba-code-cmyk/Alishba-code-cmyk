@@ -1,10 +1,10 @@
-# Hi, I'm Alishba 
+# Hi, I'm Alishba 👋
 
-MERN stack developer | Learning Java & Python 
+[MERN stack developer] | Learning Java & Python | [Based in Punjab, India]
 
-I build web apps with the MERN stack and practice problem-solving in Java and Python. I'm currently looking for internship / freelance / opensource opportunities in web development.
+I build web apps with the MERN stack and practice problem-solving in Java and Python. I'm currently looking for [internship / freelance / entry-level] opportunities in [web development].
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -22,7 +22,7 @@ I build web apps with the MERN stack and practice problem-solving in Java and Py
 
 ## 📚 Currently Learning
 
-- Java: data structures and OOP
+- [Java: data structures and OOP]
 - [Python: problem-solving and projects]
 - [Something you're exploring next, e.g. TypeScript, Next.js]
 
@@ -30,6 +30,6 @@ Learning repos: [JavaScript](https://github.com/Alishba-code-cmyk/Javascript-lea
 
 ## 📫 Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/alishba-ainul-435348365/
-- Email: itsalishba00@gmail.com
-- Portfolio: 
+- LinkedIn: [your link]
+- Email: [your email]
+- Portfolio: [your link, if any]
