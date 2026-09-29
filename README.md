@@ -22,8 +22,8 @@ I build web apps with the MERN stack and practice problem-solving in Java and Py
 
 ##  Currently Learning
 
-- [Java: advance datastructure]
-- [Python: problem-solving and projects]
+- Java: advance datastructure
+- Python: problem-solving and projects
 
 Learning repos: [JavaScript](https://github.com/Alishba-code-cmyk/Javascript-learning) · [Java](https://github.com/Alishba-code-cmyk/Java-learning) · [Python](https://github.com/Alishba-code-cmyk/Python-Learning)
 
