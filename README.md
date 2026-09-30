@@ -1,6 +1,6 @@
 # Hi, I'm Alishba 
 
-MERN stack developer | Learning Java & Python 
+MCA | MERN stack developer | Learning Java & Python 
 
 I build web apps with the MERN stack and practice problem-solving in Java and Python. I'm currently looking for internship / freelance / opensource opportunities in web development.
 
