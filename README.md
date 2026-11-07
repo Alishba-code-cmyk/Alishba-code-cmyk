@@ -10,7 +10,7 @@ I build web apps with the MERN stack and practice problem-solving in Java and Py
 |---|---|---|---|
 | [Healthwise](https://github.com/Alishba-code-cmyk/Healthwise) | AI integrated health dignostic web | tailwind css, MongoDB, Next.js,JWT authentication |[link](https://healt-wise.vercel.app) |
 | [Wanderlust](https://github.com/Alishba-code-cmyk/Full-stack-MERN-projects) | Full-stack apps built with MongoDB, Express, React, and Node | MERN |[link](https://wanderlust-mom6.onrender.com) |
-| [Developer-portfolio](https://github.com/Alishba-code-cmyk/Portfolio)) | Responsive UI projects | typescript,Next.js,react,JavaScript |[link](https://cozy-profiterole-3171f7.netlify.app/)
+| [Developer-portfolio](https://github.com/Alishba-code-cmyk/Portfolio)) | Responsive UI projects | typescript,Next.js,react,JavaScript |[link](https://alishba-portfolio-roan.vercel.app/)
 
 ## Tech Stack
 
